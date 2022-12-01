@@ -44,6 +44,6 @@ We add that token to our header then
 We are able to access the contents from the posts with jwt protection.
 With every request now we are also access the user who is keeping that request 
 
-<img src="https://user-images.githubusercontent.com/46970931/202866883-d1d6ed5d-57cc-44bf-a721-035870a2fb8f.png" width=100px height=100px>
+<img src="https://user-images.githubusercontent.com/46970931/202866883-d1d6ed5d-57cc-44bf-a721-035870a2fb8f.png" width=1000px height=1000px>
 
 
